@@ -20,8 +20,7 @@ const config = {
     projectName: 'MyWiki ', // Usually your repo name.
     deploymentBranch: 'master',
     trailingSlash: false,
-    USE_SSH:true,
-    GIT_PASS:"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",
+
 
     // Even if you don't use internalization, you can use this field to set useful
     // metadata like html lang. For example, if your site is Chinese, you may want
