@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_wiki=self.webpackChunkmy_wiki||[]).push([[2539],{5306:a=>{a.exports=JSON.parse('{"title":"\u7f16\u7a0b\u8bed\u8a00","slug":"/category/\u7f16\u7a0b\u8bed\u8a00","permalink":"/zh-Hans/docs/category/\u7f16\u7a0b\u8bed\u8a00","navigation":{"next":{"title":"Java","permalink":"/zh-Hans/docs/category/java"}}}')}}]);
