@@ -2,7 +2,7 @@
 sidebar_position: 99
 ---
 
-# Welcome
+# 导航页
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
