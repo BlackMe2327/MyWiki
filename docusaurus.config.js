@@ -16,7 +16,7 @@ const config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'BlackMe', // Usually your GitHub org/user name.
+    organizationName: 'BlackMe2327', // Usually your GitHub org/user name.
     projectName: 'MyWiki ', // Usually your repo name.
     deploymentBranch: 'master',
     trailingSlash: false,
