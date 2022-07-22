@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_wiki=self.webpackChunkmy_wiki||[]).push([[22],{7809:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/MyWiki/zh-Hans/blog/tags/docusaurus","allTagsPath":"/MyWiki/zh-Hans/blog/tags","count":4}')}}]);
