@@ -18,7 +18,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          MYWIKI: ${{ secrets.MYWIKI  }}
+          ACCESS_TOKEN: ${{secrets.MYWIKI}}
           BRANCH: gh-pages
           FOLDER: build
           BUILD_SCRIPT: npm install && npm run build
