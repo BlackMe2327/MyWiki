@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Black Me',
     tagline: 'Go big or go home',
-    url: 'https://github.com/BlackMe2327/MyWiki',
+    url: 'git@github.com:BlackMe2327/MyWiki.git',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
@@ -20,6 +20,8 @@ const config = {
     projectName: 'MyWiki ', // Usually your repo name.
     deploymentBranch: 'master',
     trailingSlash: false,
+    USE_SSH:true,
+    GIT_PASS:"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",
 
     // Even if you don't use internalization, you can use this field to set useful
     // metadata like html lang. For example, if your site is Chinese, you may want
