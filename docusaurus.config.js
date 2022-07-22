@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Black Me',
     tagline: 'Go big or go home',
-    url: 'git@github.com:BlackMe2327/MyWiki.git',
+    url: 'https://github.com/BlackMe2327/MyWiki',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'BlackMe2327', // Usually your GitHub org/user name.
+    organizationName: 'BlackMe', // Usually your GitHub org/user name.
     projectName: 'MyWiki ', // Usually your repo name.
     deploymentBranch: 'master',
     trailingSlash: false,
