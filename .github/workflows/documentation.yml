@@ -22,3 +22,5 @@ jobs:
           BRANCH: gh-pages
           FOLDER: build
           BUILD_SCRIPT: npm install && npm run build
+          user_name: BlackMe2327
+          user_email: it_chenbo@163.com
