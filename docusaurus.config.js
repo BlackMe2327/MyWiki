@@ -9,7 +9,7 @@ const config = {
     title: 'Black Me',
     tagline: 'Go big or go home',
     url: 'https://blackme2327.github.io/MyWiki',
-    baseUrl: '/',
+    baseUrl: '/MyWiki/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
