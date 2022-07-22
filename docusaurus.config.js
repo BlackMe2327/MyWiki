@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Black Me',
     tagline: 'Go big or go home',
-    url: 'https://github.com/BlackMe2327/MyWiki.git',
+    url: 'https://blackme2327.github.io/MyWiki',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
