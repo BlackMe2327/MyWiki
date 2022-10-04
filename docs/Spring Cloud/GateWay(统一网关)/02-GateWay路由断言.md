@@ -1,3 +1,4 @@
+# GateWay路由断言
 # predicates(路由断言)
 
 predicates：路由断言，判断请求是否符合要求，符合则转发到路由目的地

@@ -1,3 +1,4 @@
+# Centos7安装wget命令出错
 # 使用yum安装Wget命令出现错误：could not retrieve mirrorlist
 
 ## 执行ping命令

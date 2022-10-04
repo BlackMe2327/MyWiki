@@ -1,3 +1,4 @@
+# 安装ElasticSearch、Kibane、IK分词器
 # 部署单点es
 
 ## 创建网络

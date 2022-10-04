@@ -1,3 +1,4 @@
+# SpringAMQP-DirectExchange
 # DirectExchange(路由模式)
 
 `Direct Exchange` 会将接收到的消息根据规则路由到指定的Queue，因此称为路由模式（routes）。

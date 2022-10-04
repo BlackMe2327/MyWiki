@@ -1,5 +1,3 @@
-[TOC]
-
 # 深入分析ConcurrentHashMap的扩容实现
 
 ## 什么情况会触发ConcurrentHashMap扩容

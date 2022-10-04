@@ -1,4 +1,4 @@
-# SpringAMQP
+# SpringAMQP-Base
 
 SpringAMQP是基于RabbitMQ封装的一套模板，并且还利用SpringBoot对其实现了自动装配，使用起来非常方便。
 

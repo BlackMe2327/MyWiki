@@ -1,4 +1,4 @@
-# WorkQueue
+# SpringAMQP-WorkQueue
 
 Work queues，也被称为（Task queues），任务模型。简单来说就是**让多个消费者绑定到一个队列，共同消费队列中的消息**。
 

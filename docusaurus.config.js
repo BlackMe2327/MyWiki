@@ -27,7 +27,7 @@ const config = {
     // to replace "en" with "zh-Hans".
     i18n: {
         defaultLocale: 'zh-Hans',
-        locales: [ 'zh-Hans'],
+        locales: ['zh-Hans'],
         localeConfigs: {
             en: {
                 htmlLang: 'en-GB',
@@ -68,7 +68,7 @@ const config = {
                 title: 'Black Me',
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/logo.svg',
+                    src: 'img/logo.jpg',
                 },
                 items: [
                     {
@@ -108,7 +108,7 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
                 additionalLanguages: ['java', 'c', 'sql'],
-            },
+            }
         }),
 };
 
