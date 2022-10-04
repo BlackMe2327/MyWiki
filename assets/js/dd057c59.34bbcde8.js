@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_wiki=self.webpackChunkmy_wiki||[]).push([[6167],{2062:i=>{i.exports=JSON.parse('{"title":"RabbitMQ","slug":"/category/rabbitmq","permalink":"/MyWiki/docs/category/rabbitmq","navigation":{"previous":{"title":"MQ","permalink":"/MyWiki/docs/category/mq"},"next":{"title":"MQ\u5165\u95e8","permalink":"/MyWiki/docs/MQ/RabbitMQ/MQ\u5165\u95e8"}}}')}}]);
